@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='test-package',
-      version='0.1.2',
+      version='0.1.3',
       author='jnaus',
       author_email='jnaus@digitalglobe.com',
       license='MIT',

@@ -1,0 +1,14 @@
+*.ico
+*.orig
+*.pyc
+*.swp
+.elasticbeanstalk/
+.spyderproject
+.project
+.pydevproject
+.settings
+.idea
+*.log
+test-reports/
+dist/
+workers_and_deciders.egg-info/

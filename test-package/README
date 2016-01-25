@@ -1,0 +1,5 @@
+test-package/
+    MANIFEST.in
+    README.rst
+    setup.py
+    my_package.py
